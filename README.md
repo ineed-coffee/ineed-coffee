@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![custom badge](https://img.shields.io/badge/status-FOCUSED-blueviolet) 
 <!--
 **ineed-coffee/ineed-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
