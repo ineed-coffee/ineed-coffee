@@ -12,7 +12,7 @@
   
 :coffee: __I majored in `Electronic Engineering` and got interested in machine/deep learning while working on my undergraduate thesis__ [Application of Machine Learning for OFDM signal detection](https://github.com/ineed-coffee/Application-of-Machine-Learning-for-OFDM-signal-detection) 
   
-:coffee: __Here are some list of projects I participated in__ 
+:coffee: __Here' list of projects I participated in__ 
   
 - :car: 오산시 어린이 교통사고 위험구역 도출 과제 공모전 [Selecting new kids-safe zone for Osan city](https://github.com/ineed-coffee/Osan-Si_-Identify-_TA_DangerZones)
   
