@@ -3,14 +3,13 @@
 ---
 
 ## My name is __`Lee Dong Jae`__ ,![custom badge](https://img.shields.io/badge/status-FOCUSED-blueviolet)![custom badge2](https://img.shields.io/badge/version-0.1.%3F%3F%3F-orange)
-  
 ## and I'm currently intersted in data science, ML , DL 
-
-
+  
   
 :coffee: __I'm learning hard to become data scientist , ML&DL engineer__
   
-:coffee: __I majored in `Electronic Engineering` and got interested in machine/deep learning while working on my undergraduate thesis__ [Application of Machine Learning for OFDM signal detection](https://github.com/ineed-coffee/Application-of-Machine-Learning-for-OFDM-signal-detection) 
+:coffee: __I majored in `Electronic Engineering` and got interested in machine/deep learning while working on my undergraduate thesis__  
+- [Application of Machine Learning for OFDM signal detection](https://github.com/ineed-coffee/Application-of-Machine-Learning-for-OFDM-signal-detection) 
   
 :coffee: __Here's a list of projects I participated in__ 
   
