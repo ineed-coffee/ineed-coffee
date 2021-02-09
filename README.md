@@ -23,7 +23,7 @@
   
 - 👍 미국 대선 관련 뉴스 기사 & 트위터 & 토론 텍스트 마이닝을 통한 감성 분석 및 예측👎[text_mining_for_US_election](https://github.com/ineed-coffee/text_mining_for_US_election)
   
-- 🎁 세상을 밝혀주는 따듯한 서비스 시선 (복합 인공지능 서비스) [seesun](https://github.com/ineed-coffee/seesun) 
+- 🎁 세상을 밝혀주는 따듯한 서비스 시선 (복합 인공지능 서비스) [seesun\(complex AI service\)](https://github.com/ineed-coffee/seesun) 
   
 - 😷 Facial mask-Area-Detection 을 활용한 올바른 마스크 착용 여부 판단 [covid19_mask_detection](https://github.com/ineed-coffee/covid19_mask_detection) 
 
