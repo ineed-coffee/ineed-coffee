@@ -17,13 +17,13 @@
 
 :coffee: __Here's a list of projects I participated in__ 
 
-- :car: 오산시 어린이 교통사고 위험구역 도출 과제 공모전 [Selecting new kids-safe zone for Osan city](https://github.com/ineed-coffee/Osan-Si_-Identify-_TA_DangerZones)
-  
-- 📝 월간 데이콘 8 : 심리 성향 예측 AI 경진대회 [vote_prediction_from_Machiavellism_test](https://github.com/ineed-coffee/vote_prediction_from_Machiavellism_test)
+- 🎁 세상을 밝혀주는 따듯한 서비스 시선 (복합 인공지능 서비스) [seesun\(complex AI service\)](https://github.com/ineed-coffee/seesun) 
   
 - 👍 미국 대선 관련 뉴스 기사 & 트위터 & 토론 텍스트 마이닝을 통한 감성 분석 및 예측👎[text_mining_for_US_election](https://github.com/ineed-coffee/text_mining_for_US_election)
   
-- 🎁 세상을 밝혀주는 따듯한 서비스 시선 (복합 인공지능 서비스) [seesun\(complex AI service\)](https://github.com/ineed-coffee/seesun) 
+- :car: 오산시 어린이 교통사고 위험구역 도출 과제 공모전 [Selecting new kids-safe zone for Osan city](https://github.com/ineed-coffee/Osan-Si_-Identify-_TA_DangerZones)
+  
+- 📝 월간 데이콘 8 : 심리 성향 예측 AI 경진대회 [vote_prediction_from_Machiavellism_test](https://github.com/ineed-coffee/vote_prediction_from_Machiavellism_test)
   
 - 😷 Facial mask-Area-Detection 을 활용한 올바른 마스크 착용 여부 판단 [covid19_mask_detection](https://github.com/ineed-coffee/covid19_mask_detection) 
 
