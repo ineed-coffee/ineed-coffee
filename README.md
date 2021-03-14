@@ -28,7 +28,8 @@
 - 😷 Facial mask-Area-Detection 을 활용한 올바른 마스크 착용 여부 판단 [covid19_mask_detection](https://github.com/ineed-coffee/covid19_mask_detection) 
 
 ---
-
+[![ineed-coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ineed-coffee&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats) 
+---
 ### Contact
 <p align="left">
 <a href=mailto:leey93ssu@gmail.com target="blank"><img align="center" src=https://www.flaticon.com/svg/static/icons/svg/561/561188.svg alt="ineed-coffee" height="30" width="30" /></a>
